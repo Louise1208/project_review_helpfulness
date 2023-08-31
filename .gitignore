@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+deal_with_glove.py
+
+
+
+/checkpoints/
+/results/
+/.idea/
+.DS_Store
+embedding_matrix.npy
+/glove.6B/
